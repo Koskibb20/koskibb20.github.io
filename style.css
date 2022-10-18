@@ -4,7 +4,9 @@
 body {
 	background-color: #d3d0cbff;
 }
-
+.container{
+	display: flex;
+}
 .jumbotron {
 	margin-bottom: 0px;
 }
