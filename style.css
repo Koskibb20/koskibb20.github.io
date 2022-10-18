@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #d3d0cbff;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+}
+.nav-pills .nav-link {
+	border-radius: 0;
+}
+.mcontent {
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+
+.skillsg {
+	background-color: #9fb1bcff;
+	padding: 30px;
+	text-align: center;
+}
+
+.skillsb {
+	background-color: #6e8898ff;
+	padding: 30px;
+	text-align: center;
+}
+
+.contact {
+	text-align: center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #2e5266ff;
+}
+
+.nav-item{
+	background-color: #6e8898ff;
+	color: white;
+}
+
+.blockText {
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+li a {
+	color: white;
+	text-decoratoin: none;
+}
+
+li a:hover{
+	color: black;
+}
+
+hr {
+	margin: 0px;
+	height: 2px;
+}
+
+@keyframes slideInTop{
+	0%{
+		transform: translateY(100%);
+	}
+	100%{
+		transform: translate(0);
+	}
+}
+
