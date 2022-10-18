@@ -49,6 +49,12 @@ body {
 	margin-left: auto;
 }
 
+.keyskills{
+	width: 30%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 li a {
 	color: white;
 	text-decoratoin: none;
